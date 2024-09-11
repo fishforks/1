@@ -40,6 +40,7 @@
 {"key":"短剧_极速","name":"极速丨短劇","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 {"key":"短剧_天天","name":"天天丨短劇","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 {"key":"短剧_非凡","name":"非凡丨短劇","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
+//{"key":"短剧_空空","name":"空空丨短劇","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 
 {"key":"屁股_玩偶","name":"🥇玩偶丨4K网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
 {"key":"屁股_蜡笔","name":"🥈蜡笔丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
