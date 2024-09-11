@@ -21,9 +21,9 @@
 {"key":"饭佬_中央","name":"央视丨回播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
 {"key":"饭佬_小说","name":"小说丨在线","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/有声小说.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 
-{"key":"饭佬_88js","name":"足球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
-{"key":"饭佬_31js","name":"足篮丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/31直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
-{"key":"饭佬_Jrsjs","name":"篮球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
+{"key":"饭佬_足球","name":"足球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
+{"key":"饭佬_足篮","name":"足篮丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/31直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
+{"key":"饭佬_篮球","name":"篮球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 
 {"key":"饭佬_明星","name":"明星丨MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/MTV.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 {"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/哔站热歌.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
