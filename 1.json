@@ -123,7 +123,7 @@
 {"key":"欧歌_三六","name":"👾三六丨解析","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./jar/oue0903.php;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 
 {"key":"饭佬_酷看","name":"💎酷看丨多线","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
-{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz""searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/","jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
+{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/","jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 {"key":"饭佬_可可","name":"👻可可丨多线","type":3,"api":"csp_Kekys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 
 {"key":"饭佬_小点","name":"💥小点丨多线","type":3,"api":"csp_Appxd","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="},
