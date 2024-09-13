@@ -50,14 +50,6 @@
 {"key":"屁股_表哥","name":"🍇表哥丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://wobgg.run-us-west2.goorm.io/noproxy$$$$$$1$$$./lib/wogg.json$$$WOBG"},
 {"key":"屁股_玩你","name":"🌈玩你丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"},
 
-{"key":"屁股_小米","name":"🍚小米丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
-{"key":"屁股_至臻","name":"⚡至臻丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://mpanso.com/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"屁股_云星","name":"⭐云星丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json"},
-
-{"key":"屁股_私人","name":"🐋私人丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"屁股_六趣","name":"💕六趣丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://43.136.41.222:2333/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"饭佬_玩偶","name":"🐷玩偶丨4K网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"./lib/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
-
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 {"key":"饭佬_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
@@ -156,6 +148,14 @@
 {"key":"香佬_旧6V","name":"🧲旧6V丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/6X.json","jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
 {"key":"屁股_磁熊","name":"🧲磁熊丨磁力","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js"},
 {"key":"屁股_变态","name":"🧲变态丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XBPQ/变态.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+  
+{"key":"屁股_小米","name":"🍚小米丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
+{"key":"屁股_至臻","name":"⚡至臻丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://mpanso.com/$$$noproxy$$$1$$$./lib/wogg.json"},
+{"key":"屁股_云星","name":"⭐云星丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json"},
+
+{"key":"屁股_私人","name":"🐋私人丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"},
+{"key":"屁股_六趣","name":"💕六趣丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://43.136.41.222:2333/$$$noproxy$$$1$$$./lib/wogg.json"},
+{"key":"饭佬_玩偶","name":"🐷玩偶丨4K网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"./lib/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 
 {"key":"屁股_影巢","name":"🎥影巢丨4K网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1$$$"},
 {"key":"屁股_影搜","name":"🥉影搜丨4K网盘","type":3,"api":"csp_YingSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json"},
