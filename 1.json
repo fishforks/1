@@ -11,7 +11,7 @@
 "sites":[
 {"key":"屁股_豆瓣搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：9/13😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"indexs":1,"ext":"./lib/douban.json"},
 //{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：9/13😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
-//{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：9/13😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
+{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：9/13😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"jar":"./jar/fan0906.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"},
 
 {"key":"屁股_配置","name":"4K网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
 {"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":"","proxy":"127.0.0.1:10072","danmu":true},"style":{"type":"rect","ratio":1.77}},
