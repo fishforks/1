@@ -44,6 +44,14 @@
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
 {"key":"饭佬_糯米","name":"🍓糯米丨秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"踢死_黑木","name":"🥩黑木丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"踢死_华为","name":"🍏华为丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"踢死_非凡","name":"🍉非凡丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webfeifanziyuan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
+{"key":"采集_三六","name":"🍀三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"采集_资源","name":"🍀资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"采集_卧龙","name":"🍀卧龙丨采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
+
 {"key":"饭佬_原创","name":"🐛原创丨秒播","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_在线","name":"🍊在线丨外剧","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"饭佬_低端","name":"⏮️低端丨外剧","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2"},
@@ -52,14 +60,11 @@
 {"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
 {"key":"饭佬_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"踢死_黑木","name":"🥩黑木丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"踢死_华为","name":"🍏华为丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"踢死_非凡","name":"🍉非凡丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webfeifanziyuan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
 {"key":"踢死_木木","name":"🥩黑木丨多线","type":4,"api":"https://tang.hz.cz/power/hme?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_欧乐","name":"🐏欧乐丨多线","type":4,"api":"https://tang.hz.cz/power/olelive?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_安博","name":"🦝安博丨多线","type":4,"api":"https://tang.hz.cz/power/ub18?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 	
+{"key":"饭佬_玩偶","name":"🐷玩偶丨4K网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"./lib/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0917.jar;md5;498aae475d2719b161b97e18dfeafa28"},
 {"key":"欧歌_采集","name":"🍚采王丨多线","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/json/采集静态.json","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"道长_爱看","name":"🍚看看丨采集","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/ikanbot.js"},
 
@@ -71,6 +76,14 @@
 {"key":"饭佬_异界","name":"🎀异界丨动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_日本","name":"🐾日本丨动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"开心_师兄","name":"🍁师兄丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/师兄.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"开心_可可","name":"🍁可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可可.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"开心_白嫖","name":"🍁白嫖丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/白嫖.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+
+{"key":"开心_神仙","name":"🍁神仙丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/神仙.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"开心_五五","name":"🍁五五丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/五五.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"开心_无尽","name":"🍁无尽丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/无尽.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+
 {"key":"欧歌_农民","name":"👾农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_热播","name":"👾热播丨多线","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_追剧","name":"👾追剧丨多线","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
@@ -79,21 +92,9 @@
 {"key":"欧歌_圣城","name":"👾圣城丨多线","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_大米","name":"👾大米丨多线","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 
-{"key":"采集_三六","name":"🍀三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"采集_资源","name":"🍀资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"采集_卧龙","name":"🍀卧龙丨采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
-
 {"key":"采集_极速","name":"🍀极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_飞速","name":"🍀飞速丨采集","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_空空","name":"🍀空空丨采集","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"开心_师兄","name":"🍁师兄丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/师兄.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"开心_可可","name":"🍁可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可可.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"开心_白嫖","name":"🍁白嫖丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/白嫖.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-
-{"key":"开心_神仙","name":"🍁神仙丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/神仙.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"开心_五五","name":"🍁五五丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/五五.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"开心_无尽","name":"🍁无尽丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/无尽.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
 {"key":"开心_红狐","name":"🍁红狐丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/红狐.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_高清","name":"🍁高清丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/高清.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
