@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0917.jar;md5;59b488260073c3eba7618143d70a076d",
+"spider":"./jar/pg0918.jar;md5;3e7a4b27e61b94cc93296b2d239d8c7d",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -18,12 +18,11 @@
 
 {"key":"麻豆传媒","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"爱豆传传","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
-{"key":"爱豆传媒","name":"🤪爱豆传媒py","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":1,"filterable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
 
 {"key":"我玩姐姐","name":"🔞我玩姐姐","type":1,"api":"https://apilj.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产自拍","欧美极品","日韩无码","AV明星","中文字幕","动漫精品","极骚萝莉","人妖视频","重咸口味","三级自慰","强奸乱伦","独家擂台格斗","辣椒GIGA","HEYZO","独家DMM","HEY诱惑","童颜巨乳","高潮喷吹","激情口交","绝美少女","首次亮相","AV明星1"]},
 {"key":"花椒资源","name":"🔞花椒资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"AV影院","name":"🔞AV影院","type":3,"jar":"./jar/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"图片":"data-src=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","主页url":"https://wyaslcwgroup.cfd/","分类":"中文$6#日本有码$8#国产视频$1#主播$2#黑料$3#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16","分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+
 
 
 
