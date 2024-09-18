@@ -1,21 +1,21 @@
 {
-"spider":"./jar/fan0917.jar;md5;498aae475d2719b161b97e18dfeafa28",
+"spider":"./jar/fan0918.jar;md5;8d7cdd390b32a57772e293584d4ff728",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
-"logo":"./lib/1.gif",
+"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"内地直播","type":0,"pass":true,"ua":"okhttp/4.12.0","url":"https://tang.hz.cz/zb/笑死.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"live.ipv6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"},
-{"name":"live.ipv6.m3u","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"}
+{"name":"live.ipv6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live.ipv6.m3u","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites":[
-{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：9/16😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
-{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：9/16😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0},
+{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：9/18😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"https://gitlab.com/yxy2015/Yc/-/raw/master/lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
+{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：9/18😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0},
 {"key":"道长_哔哩","name":"bilibib","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/bilibili.js"},
 
 {"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/广场舞.json","style":{"type":"rect","ratio":1.597}},
-{"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive",searchable":0,"quickSearch":0,"changeable":0},
 {"key":"饭佬_中央","name":"央视丨回播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
 
 {"key":"饭佬_足球","name":"足球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
@@ -40,16 +40,35 @@
 {"key":"短剧_非凡","name":"非凡丨短劇","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 //{"key":"短剧_空空","name":"空空丨短劇","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 
+{"key":"饭佬_玩偶","name":"🐷玩偶丨4K网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
+	
 {"key":"饭佬_糯米","name":"🍓糯米丨秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
-
+{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
+{
+            "key": "php_webbaiwanziyuan",
+            "name": "🔞百万传媒",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=webbaiwanziyuan",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
 {"key":"踢死_黑木","name":"🥩黑木丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_华为","name":"🍏华为丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_非凡","name":"🍉非凡丨多线","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webfeifanziyuan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-{"key":"采集_三六","name":"🍀三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_资源","name":"🍀资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"采集_极速","name":"🍀极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"采集_空空","name":"🍀空空丨采集","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"采集_三六","name":"🍀三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_卧龙","name":"🍀卧龙丨采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"饭佬_原创","name":"🐛原创丨秒播","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"changeable":1},
@@ -57,14 +76,22 @@
 {"key":"饭佬_低端","name":"⏮️低端丨外剧","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2"},
 
 {"key":"饭佬_樱花","name":"💥樱花丨多线","type":3,"api":"csp_Yh007","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
 {"key":"饭佬_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"踢死_木木","name":"🥩黑木丨多线","type":4,"api":"https://tang.hz.cz/power/hme?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"踢死_木木","name":"🥩木木丨多线","type":4,"api":"https://tang.hz.cz/power/hme?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_欧乐","name":"🐏欧乐丨多线","type":4,"api":"https://tang.hz.cz/power/olelive?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_安博","name":"🦝安博丨多线","type":4,"api":"https://tang.hz.cz/power/ub18?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
+
+
+
+
+
+
+
+
 	
-{"key":"饭佬_玩偶","name":"🐷玩偶丨4K网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"./lib/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0917.jar;md5;498aae475d2719b161b97e18dfeafa28"},
+
 {"key":"欧歌_采集","name":"🍚采王丨多线","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/json/采集静态.json","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"道长_爱看","name":"🍚看看丨采集","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/ikanbot.js"},
 
@@ -92,9 +119,7 @@
 {"key":"欧歌_圣城","name":"👾圣城丨多线","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_大米","name":"👾大米丨多线","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 
-{"key":"采集_极速","name":"🍀极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_飞速","name":"🍀飞速丨采集","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"采集_空空","name":"🍀空空丨采集","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"开心_红狐","name":"🍁红狐丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/红狐.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_高清","name":"🍁高清丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/高清.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
@@ -139,7 +164,7 @@
 {"key":"屁股_港口","name":"🧲港口丨磁力","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
 {"key":"香佬_旧6V","name":"🧲旧6V丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/6X.json","jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
 
-{"key":"推送_推送","name":"手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./lib/tokenm.json"}],
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}],
 
 
 
