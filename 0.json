@@ -63,10 +63,14 @@
 {"key":"饭佬_玩偶","name":"🐷玩偶丨网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0919.jar;md5;06e35d78d789a597c21c799c82b487ee"},
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
-	
-{"key":"饭佬_糯米","name":"🍓糯米丨秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
-{"key":"饭佬_低端","name":"⏮️低端丨外剧","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2"},
+
+{"key":"欧歌_热播","name":"👾热播丨多线","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+{"key":"欧歌_追剧","name":"👾追剧丨多线","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+{"key":"欧歌_农民","name":"👾农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+
+{"key":"欧歌_天天","name":"👾天天丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+{"key":"欧歌_快看","name":"👾快看丨多线","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+{"key":"欧歌_大米","name":"👾大米丨多线","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 
 {"key":"采集_资源","name":"🍀资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_极速","name":"🍀极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1},
@@ -75,14 +79,6 @@
 {"key":"采集_爱坤","name":"🍀爱坤丨采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://www.ikdmjx.com/?url=","categories":["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},
 {"key":"采集_高清","name":"🍀高清丨采集","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://uutb.centos.chat/jsonwjm.php/?url=","categories":["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
 {"key":"采集_三六","name":"🍀三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
-
-{"key":"欧歌_热播","name":"👾热播丨多线","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_追剧","name":"👾追剧丨多线","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_农民","name":"👾农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-
-{"key":"欧歌_快看","name":"👾快看丨多线","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_大米","name":"👾大米丨多线","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_天天","name":"👾天天丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 	
 {"key":"踢死_合集","name":"🌸克隆丨多线","type":4,"api":"https://api.paoyun.eu.org/klhj.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"踢死_金鹰","name":"🌸金鹰丨多线","type":4,"api":"https://api.paoyun.eu.org/jy.php","searchable":1,"quickSearch":1,"filterable":0},
@@ -111,6 +107,10 @@
 {"key":"开心_茶狐","name":"🎦茶狐丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/茶狐.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_骚火","name":"🎦骚火丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/骚火.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_剧集","name":"🎦剧集丨多线","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://wap.ijujitv.cc/search/-------------.html?wd=**","分类url":"https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类":"陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"},"jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+	
+{"key":"饭佬_糯米","name":"🍓糯米丨秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
+{"key":"饭佬_低端","name":"⏮️低端丨外剧","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2"},
 
 {"key":"饭佬_追剧","name":"🦄追剧丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"饭佬_热播","name":"📺热播丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},

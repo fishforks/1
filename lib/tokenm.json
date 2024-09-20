@@ -1,5 +1,5 @@
 {
-"token":"3a99a253f3414567b3f0a4c559d2dc5f",
+"token":"15dcbb5aa08847ebb2bbd03dcc29c89d",
 "open_token":"",
 "open_api_url":"postparam|http://api.extscreen.com/aliyundrive/token",
 "oauth_client_id":"",
@@ -14,7 +14,7 @@
 
   
 "aliproxy":"",
-"aliproxy_url":"./aliproxy.gz;md5;b87eda02d41292f307adc59b4049417f",
+"aliproxy_url":"",
 "proxy":"",
 "danmu":true,
    
