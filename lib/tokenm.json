@@ -84,7 +84,12 @@
 "singbox_subscribe_url":"https://yg.337898581.xyz/add25d41-b537-4f72-bf88-15602d0aad00/psb",
 "singbox_clash2singbox_url":"./clash2singbox.gz;md5;2c2b1cac4ef2d446a4c6c6fa29d187d7",
 "singbox_template_url":"./singbox.json",
-  
+	
+"tgsearch_url":"./tgsearch",
+"tgsearch_api_id":"",
+"tgsearch_api_hash":"",
+"tgsearch_api_session":"",
+"tgsearch_api_proxy":"proxy",
   
 "pan115_cookie":"UID=360718590_A1_1726624929;CID=1535ff98f0f1e6c33b6c9db76e1d86de;SEID=4154d7d57b1ace503e3477838d721a1cbed87bf1c08dde6de62f3421b159d9e15d0fe6f883d87a7a88efab8b7357e6c7f1c03dce360a4cbe2caceda1;",
 "pan115_thread_limit":2,
@@ -93,5 +98,6 @@
 "pan115_flags":"4kz",
 "pan115_auto_delete":true,
 "pan115_delete_code":"123456",
+"pan115_speed_limit_mobile":10485760,
 "pan_order":"quark|ali|115|uc|thunder|yd|pikpak"  
 }
