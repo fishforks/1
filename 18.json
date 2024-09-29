@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0928.jar;md5;25c146d4d60c2320bb3499a1bc4d9744",
+"spider":"./jar/pg0929.jar;md5;3322d688011406c63080a8ac838b96d6",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -83,22 +83,22 @@
 
 
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_优土1","name":"Youtube1","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"proxy":"127.0.0.1:10072","ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"timeout":60},
-{"key":"Doll","name":"💔玩偶哥哥(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.309},"timeout":60},
-{"key":"Taohuazu","name":"💔Taohuazu(海外)","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$http://hsck484.cc/$$$127.0.0.1:10072","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.777},"timeout":60},
-{"key":"Top888","name":"💔Top888(海外)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":"","proxy":"127.0.0.1:10072","danmu":true},"style":{"type":"rect","ratio":1.77}},
+{"key":"Doll","name":"💔玩偶哥哥(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"ext":"","style":{"type":"rect","ratio":1.309},"timeout":60},
+{"key":"Taohuazu","name":"💔Taohuazu(海外)","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$http://hsck484.cc/$$$","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"ext":"","style":{"type":"rect","ratio":1.777},"timeout":60},
+{"key":"Top888","name":"💔Top888(海外)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$","style":{"type":"rect","ratio":1.5},"timeout":60},
 
-{"key":"Cable","name":"💔CableAV(海外)","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.5},"timeout":60},
-{"key":"Hanime","name":"💔Hanime(海外)","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":0.68},"timeout":60},
-{"key":"Netflav","name":"💔Netflav(海外)","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflav5.com$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5},"timeout":60},
-{"key":"JavDb","name":"💔JavDb(海外)","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/tokenm.json$$$null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.33},"timeout":60},
-{"key":"Eighteen","name":"❤️Eighteen(海外)","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"changeable":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.485},"timeout":60},
-{"key":"Jable","name":"💔Jable(海外)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.77},"timeout":60},
-{"key":"Xojav","name":"💔XOJav(海外)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"ext":"null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5},"timeout":60},
-{"key":"AvTime","name":"❤️AvTime(海外)","type":3,"api":"csp_AvTime","searchable":1,"quickSearch":1,"changeable":1,"ext":"127.0.0.1:10072","timeout":60},
-{"key":"Gxqvlj","name":"❤️Gxqvlj(海外)","type":3,"api":"csp_Gxqvlj","searchable":1,"quickSearch":1,"changeable":1,"ext":"127.0.0.1:10072","timeout":60},
-{"key":"JavBus","name":"💔JavBus(海外)","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.33},"timeout":60},
+{"key":"Cable","name":"💔CableAV(海外)","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"ext":"","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"Hanime","name":"💔Hanime(海外)","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"ext":"","style":{"type":"rect","ratio":0.68},"timeout":60},
+{"key":"Netflav","name":"💔Netflav(海外)","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflav5.com$$$","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"JavDb","name":"💔JavDb(海外)","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/tokenm.json$$$null$$$","style":{"type":"rect","ratio":1.33},"timeout":60},
+{"key":"Eighteen","name":"❤️Eighteen(海外)","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"changeable":1,"ext":"","style":{"type":"rect","ratio":1.485},"timeout":60},
+{"key":"Jable","name":"💔Jable(海外)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"ext":"","style":{"type":"rect","ratio":1.77},"timeout":60},
+{"key":"Xojav","name":"💔XOJav(海外)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"ext":"null$$$","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"AvTime","name":"❤️AvTime(海外)","type":3,"api":"csp_AvTime","searchable":1,"quickSearch":1,"changeable":1,"ext":"","timeout":60},
+{"key":"Gxqvlj","name":"❤️Gxqvlj(海外)","type":3,"api":"csp_Gxqvlj","searchable":1,"quickSearch":1,"changeable":1,"ext":"","timeout":60},
+{"key":"JavBus","name":"💔JavBus(海外)","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"","style":{"type":"rect","ratio":1.33},"timeout":60},
 {"key":"推送","name":"🔞🔞🔞🔞🔞🔞🔞🔞🔞🔞","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 ],
 

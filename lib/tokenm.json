@@ -90,6 +90,7 @@
 "tgsearch_api_hash":"",
 "tgsearch_api_session":"",
 "tgsearch_api_proxy":"proxy",
+"tgsearch_api_url":"http://127.0.0.1:10199/",
   
 "pan115_cookie":"",
 "pan115_thread_limit":2,
