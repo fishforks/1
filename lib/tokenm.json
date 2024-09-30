@@ -51,8 +51,8 @@
 "yd_flags":"4kz|auto",
 "yd_danmu":true,
   
-"pikpak_username":"",
-"pikpak_password":"",
+"pikpak_username":"yxy20150427@gmail.com",
+"pikpak_password":"Zz123456789",
 "pikpak_flags":"4k|auto",
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
@@ -61,7 +61,7 @@
 "pikpak_danmu":true,
 
   
-"youtube_proxy":"127.0.0.1:10072", 
+"youtube_proxy":"", 
 
 	
 "wgcf_key":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
