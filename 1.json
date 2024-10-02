@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1",
+"spider":"./jar/fan1002.jar;md5;fae44887703772d67cbf11432d50d113",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
@@ -43,13 +43,25 @@
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
 
+{"key":"欧歌_苹果","name":"👾苹果丨弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
+{"key":"欧歌_厂长","name":"👾厂长丨弹幕","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
+{"key":"欧歌_文才","name":"👾文才丨弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},	
+
+{"key":"欧歌_农民","name":"👾农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_热播","name":"👾热播丨多线","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_追剧","name":"👾追剧丨多线","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_农民","name":"👾农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 
 {"key":"欧歌_天天","name":"👾天天丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_快看","name":"👾快看丨多线","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
 {"key":"欧歌_大米","name":"👾大米丨多线","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+
+{"key":"欧歌_低端","name":"👾低端丨影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
+{"key":"欧歌_哥哥","name":"👾歌歌丨影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
+{"key":"欧歌_君君","name":"👾君君丨影视","type":3,"searchable":1,"quickSearch":1,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/appys.js","jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=","https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]}},
+
+{"key":"开心_大师","name":"🎦大师丨多线","type":3,"api":"csp_XBPQ","ext":{"简介":"","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"开心_白嫖","name":"🎦白嫖丨多线","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-texttext-right\"&&</span>","简介":""},"jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"开心_七新","name":"🎦七新丨多线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/七新.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
 {"key":"采集_资源","name":"🍀资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_极速","name":"🍀极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1},
@@ -70,10 +82,6 @@
 {"key":"踢死_木木","name":"🌸木木丨多线","type":4,"api":"https://tang.hz.cz/power/hme?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_欧乐","name":"🌸欧乐丨多线","type":4,"api":"https://tang.hz.cz/power/olelive?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"踢死_安博","name":"🌸安博丨多线","type":4,"api":"https://tang.hz.cz/power/ub18?token=c3b8252d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-{"key":"开心_大师","name":"🎦大师丨多线","type":3,"api":"csp_XBPQ","ext":{"简介":"","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"开心_白嫖","name":"🎦白嫖丨多线","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-texttext-right\"&&</span>","简介":""},"jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"开心_七新","name":"🎦七新丨多线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/七新.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
 {"key":"开心_非凡","name":"🎦非凡丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/非凡.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_量子","name":"🎦量子丨多线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/量子.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
@@ -105,15 +113,15 @@
 
 {"key":"饭佬_可可","name":"👻可可丨多线","type":3,"api":"csp_Kekys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
 {"key":"道长_爱看","name":"🍚看看丨采集","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/ikanbot.js"},
-{"key":"欧歌_采集","name":"🍚采王丨多线","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/json/采集静态.json","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+{"key":"欧歌_采集","name":"🍚采王丨多线","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/json/采集静态.json","jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
 
 {"key":"饭佬_巴士","name":"🚌巴士丨动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_异界","name":"🎀异界丨动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_日本","name":"🐾日本丨动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"欧歌_六六","name":"👾六六丨解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://122.228.85.203:1000/api.php/app/","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_丘丘","name":"👾丘丘丨解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://111.173.115.204:2211/api.php/app/","jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
-{"key":"欧歌_三六","name":"👾三六丨解析","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./jar/oue0903.jar;md5;ba2be4662147a4ab7ec2292cc516fb32"},
+{"key":"欧歌_六六","name":"👾六六丨解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://122.228.85.203:1000/api.php/app/","jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
+{"key":"欧歌_丘丘","name":"👾丘丘丨解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://111.173.115.204:2211/api.php/app/","jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
+{"key":"欧歌_三六","name":"👾三六丨解析","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
 
 {"key":"采集_卧龙","name":"🍀卧龙丨采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_飞速","name":"🍀飞速丨采集","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
