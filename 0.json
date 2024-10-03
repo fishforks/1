@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1002.jar;md5;1ab477f3a207ecdc31d1da5df37431bb",
+"spider":"./jar/pg1003.jar;md5;44298aebb2c4a067693df4ba5866542c",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -12,30 +12,30 @@
 "sites":[
 {"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
 {"key":"屁股_豆瓣搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"indexs":1,"ext":"./lib/douban.json"},
-{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
+{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 
 {"key":"屁股_配置","name":"4K网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
 {"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"ext":{"token":"./lib/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":"","proxy":"proxy","danmu":true},"style":{"type":"rect","ratio":1.77}},
 {"key":"道长_哔哩","name":"bilibib","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/bilibili.js"},
 
-{"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/广场舞.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
+{"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/广场舞.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 {"key":"饭佬_中央","name":"央视丨回播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
 
-{"key":"饭佬_足球","name":"足球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"饭佬_足篮","name":"足篮丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/31直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"饭佬_篮球","name":"篮球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
+{"key":"饭佬_足球","name":"足球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"饭佬_足篮","name":"足篮丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/31直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"饭佬_篮球","name":"篮球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 
-{"key":"饭佬_小说","name":"小说丨在线","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/有声小说.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"饭佬_明星","name":"明星丨MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/MTV.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"饭佬_戏曲","name":"戏曲丨大全","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/全国戏曲.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-//{"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/哔站热歌.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
+{"key":"饭佬_小说","name":"小说丨在线","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/有声小说.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"饭佬_明星","name":"明星丨MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/MTV.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"饭佬_戏曲","name":"戏曲丨大全","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/全国戏曲.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+//{"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/哔站热歌.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 
-{"key":"小学_课堂","name":"小学丨课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/小学课堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"初中_课堂","name":"初中丨课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/初中课堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
-{"key":"高中_教育","name":"高中丨课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/高中课堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
+{"key":"小学_课堂","name":"小学丨课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/小学课堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"初中_课堂","name":"初中丨课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/初中课堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
+{"key":"高中_教育","name":"高中丨课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./bilibili/高中课堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 
-{"key":"饭佬_短剧","name":"上头丨短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0928.jar;md5;3d161697458ecbcd2651a749db761ba1"},
+{"key":"饭佬_短剧","name":"上头丨短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 {"key":"短剧_火狐","name":"火狐丨短劇","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 {"key":"短剧_卧龙","name":"卧龙丨短劇","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 
