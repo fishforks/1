@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1003.jar;md5;44298aebb2c4a067693df4ba5866542c",
+"spider":"./jar/pg1004.jar;md5;9079a4e56f85c46f42564b9fe8a1139e",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -11,13 +11,14 @@
 
 "sites":[
 {"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
-{"key":"屁股_豆瓣搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"indexs":1,"ext":"./lib/douban.json"},
+{"key":"屁股_豆瓣搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 {"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：10/07😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 
 {"key":"屁股_配置","name":"4K网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
 {"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"ext":{"token":"./lib/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":"","proxy":"proxy","danmu":true},"style":{"type":"rect","ratio":1.77}},
 {"key":"道长_哔哩","name":"bilibib","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/bilibili.js"},
-
+{"key":"屁股_皮克","name":"PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz","style":{"type":"list","ratio":1.1}},
+	
 {"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/广场舞.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 {"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan1003.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93"},
 {"key":"饭佬_中央","name":"央视丨回播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
@@ -45,20 +46,20 @@
 //{"key":"短剧_空空","name":"空空丨短劇","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"categories":["短剧"]},
 
 {"key":"屁股_玩偶","name":"🥇玩偶丨4K网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+{"key":"屁股_纸条","name":"📜纸条丨4K网盘","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":"./lib/tokenm.json$$$https://ali.gitcafe.ink/$$$null$$$1"},
+{"key":"屁股_立播","name":"🚀立播丨4K网盘","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
+	
 {"key":"屁股_蜡笔","name":"🥈蜡笔丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://labipan.com/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
 {"key":"屁股_木偶","name":"🥉木偶丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://mogg.top/$$$1$$$noproxy$$$./lib/wogg.json$$$MOGG"},
-
 {"key":"屁股_土豆","name":"🥔土豆丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://yunpan.yunpay.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$TUDOU"},
+
 {"key":"屁股_多多","name":"🌈多多丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"},
+{"key":"屁股_云星","name":"⭐云星丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"屁股_私人","name":"🐋私人丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json"},
 
 {"key":"屁股_小米","name":"🍚小米丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
 {"key":"屁股_至臻","name":"⚡至臻丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://mpanso.com/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"屁股_云星","name":"⭐云星丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn/$$$noproxy$$$1$$$./lib/wogg.json"},
-
-{"key":"屁股_纸条","name":"📜纸条丨4K网盘","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":"./lib/tokenm.json$$$https://ali.gitcafe.ink/$$$null$$$1"},
 {"key":"屁股_六趣","name":"💕六趣丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://43.136.41.222:999/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"屁股_立播","name":"🚀立播丨4K网盘","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
 
 {"key":"饭佬_玩偶","name":"🐷玩偶丨网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
@@ -186,8 +187,30 @@
 {"key":"屁股_摩尼","name":"摩尼丨4K网盘","type":3,"api":"csp_Moli","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"},
 {"key":"屁股_皮皮","name":"皮皮丨4K网盘","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 {"key":"屁股_校长","name":"校长丨4K网盘","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
-{"key":"TGYunPanLocal","name":"TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
-	
+ {
+            "key": "TGYunPanLocal",
+            "name": "TG搜索Local|网盘搜索",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"
+        },
+        {
+            "key": "TGYunPan",
+            "name": "TG搜索|网盘搜索",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"
+        },
+        {
+            "key": "TGYunPan18",
+            "name": "TG搜索|涩涩网盘",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$noproxy$$$1"
+        },	
 {"key":"屁股_夸克","name":"💖夸克丨4K网盘","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$./lib/quarkshare.txt","style":{"type":"list","ratio":1.1}},
 {"key":"屁股_阿里","name":"🏆阿里丨4K网盘","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"屁股_115","name":"💗115丨4K网盘","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1$$$","style":{"type":"list","ratio":1.1}},
