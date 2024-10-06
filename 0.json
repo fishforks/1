@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1004.jar;md5;78acdc2045f37bc92d077662c28213c8",
+"spider":"./jar/pg1006.jar;md5;a3b0f0fe5d0de56cb221c4402c8250c1",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -187,9 +187,16 @@
 {"key":"屁股_皮皮","name":"皮皮丨4K网盘","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 {"key":"屁股_校长","name":"校长丨4K网盘","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 
-{"key":"TGYunPanLocal","name":"TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":"./lib/tokenm.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
-{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"./lib/tokenm.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"},
-{"key":"TGYunPan18","name":"TG搜索|涩涩网盘","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"./lib/tokenm.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$noproxy$$$1"},	
+
+{"key":"TGYunPanLocal","name":"TG|正经","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":"./lib/tokenm.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
+{"key":"TGYunPanLocal1","name":"TG|涩涩","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":"./lib/tokenm.json$$$https://t.me/$$$pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime$$$proxy$$$1"},
+{"key":"TGYunPan","name":"TG|群组","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"./lib/tokenm.json$$$http://tg.seczh.com$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$proxy$$$1"},
+{"key":"TGYunPan2","name":"TG|磁力","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"./lib/tokenm.json$$$http://tg.seczh.com$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$proxy$$$1"},
+	
+	
+	
+	
+	
 {"key":"屁股_皮克","name":"PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz","style":{"type":"list","ratio":1.1}},
 
 {"key":"屁股_夸克","name":"💖夸克丨4K网盘","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$./lib/quarkshare.txt","style":{"type":"list","ratio":1.1}},
