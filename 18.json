@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1006.jar;md5;a3b0f0fe5d0de56cb221c4402c8250c1",
+"spider":"./jar/pg1007.jar;md5;b0aad572a20bb7c0025fad675791b31d",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -13,7 +13,7 @@
 
 
 "sites":[
-{"key":"合集","name":"点击ㅤㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“首页”更精彩!ㅤ感谢陈公子大力赞助👍!!！","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
+{"key":"合集","name":"点击ㅤㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!ㅤ感谢陈公子大力赞助👍👍👍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
 
 
 {"key":"麻豆传媒","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
