@@ -19,7 +19,7 @@
 {"key":"麻豆传媒","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"爱豆传传","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
-
+{"key":"TGYunPanLocal1","name":"TG|涩涩","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/tokenm.json","json":"http://127.0.0.1:9978/file/XYQTVBox/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://127.0.0.1:10199","channellist":"pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime","proxy":"proxy","danmu":true}},
 {"key":"花椒资源","name":"🔞花椒资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
@@ -186,22 +186,22 @@
 {"key":"Taohuazu","name":"💔Taohuazu(海外)","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$http://hsck484.cc/$$$proxy","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"ext":"proxy","style":{"type":"rect","ratio":1.777},"timeout":60},
 {"key":"Top888","name":"💔Top888(海外)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"ext":"proxy","style":{"type":"rect","ratio":1.5},"timeout":60},
- {
-            "key": "SeHuaTang",
-            "name": "色花堂|磁力",
-            "type": 3,
-            "api": "csp_SeHuaTang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$proxy",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
+{
+"key":"SeHuaTang",
+"name":"色花堂|磁力",
+"type":3,
+"api":"csp_SeHuaTang",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"filterable":0,
+"timeout":60,
+"ext":"./lib/tokenm.json$$$null$$$proxy",
+"style":{
+"type":"list",
+"ratio":1.1
+}
+},
 {"key":"Cable","name":"💔CableAV(海外)","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"ext":"proxy","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"Hanime","name":"💔Hanime(海外)","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"ext":"proxy","style":{"type":"rect","ratio":0.68},"timeout":60},
 {"key":"Netflav","name":"💔Netflav(海外)","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflav5.com$$$proxy","style":{"type":"rect","ratio":1.5},"timeout":60},
