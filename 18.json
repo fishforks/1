@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1011.jar;md5;f4f4d6efe65cf29ed11833b9b7fcd41e",
+"spider":"./jar/pg1011.jar;md5;9618d025a6f21290e30feb7fca4270ee",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -19,9 +19,33 @@
 {"key":"麻豆传媒","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"爱豆传传","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
-{"key":"TGYunPanLocal1","name":"TG|涩涩","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"./lib/tokenm.json","json":"./lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://127.0.0.1:10199","tgsearch_media_url":"http://127.0.0.1:10199","channellist":"pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime","proxy":"proxy","danmu":true}},
 {"key":"花椒资源","name":"🔞花椒资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 
+{"key":"TGYunPanLocalSS","name":"TG频道|涩涩","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+   "ext":{
+    "token":"./lib/tokenm.json",
+    "json":"./lib/tgsearch.json",
+    "keywords":"名称,片名,推荐",
+    "tgsearch_url":"http://127.0.0.1:10199",
+    "tgsearch_media_url":"http://127.0.0.1:10199",
+    "channellist":"vn666hh,avab01,CosMM18",
+    "proxy":"proxy",
+    "danmu":true
+   }
+  },
+  {"key":"TGYunPanQZSS","name":"TG群组|涩涩","type":3,"api":"csp_TGYunPan","timeout":120, 
+   "ext":{
+    "token":"./lib/tokenm.json",
+    "json":"./lib/tgsearch.json",
+    "keywords":"名称,片名,推荐",
+    "tgsearch_url":"http://127.0.0.1:10199",
+    "tgsearch_media_url":"http://127.0.0.1:10199",
+    "channellist":"IPX_AV|1000,kc0102|1000,ppg1314|1000,cctav|1000,vn666hh|1000,avab01|1000,pikpakziyuan|1000,avpush|1000,avgc5200|1000,ribenseyuge1|1000,cilitu|1000,javdb91|1000,SeseAnime|1000",
+    "proxy":"noproxy",
+    "danmu":true
+   }
+  },
+	
 {"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
 {"key":"csp_XYQHiker_777影院","name":"🔞777影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/h/777影院.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"},
 {"key":"农夫与少妇","name":"🔞农夫与少妇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/lib/nfsf.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
