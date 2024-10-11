@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1009.jar;md5;10d134fc7f950b646dd551415f4165d2",
+"spider":"./jar/pg1011.jar;md5;f4f4d6efe65cf29ed11833b9b7fcd41e",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -13,13 +13,13 @@
 
 
 "sites":[
-{"key":"合集","name":"点击ㅤㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!ㅤ感谢陈公子大力赞助👍👍👍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
+{"key":"合集","name":"点击ㅤㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!ㅤ感谢陈公子大力赞助👍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
 
 
 {"key":"麻豆传媒","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"爱豆传传","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
-{"key":"TGYunPanLocal1","name":"TG|涩涩","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/tokenm.json","json":"http://127.0.0.1:9978/file/XYQTVBox/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://127.0.0.1:10199","channellist":"pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime","proxy":"proxy","danmu":true}},
+{"key":"TGYunPanLocal1","name":"TG|涩涩","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"./lib/tokenm.json","json":"./lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://127.0.0.1:10199","tgsearch_media_url":"http://127.0.0.1:10199","channellist":"pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime","proxy":"proxy","danmu":true}},
 {"key":"花椒资源","name":"🔞花椒资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
