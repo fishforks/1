@@ -10,9 +10,9 @@
 ],
 
 "sites":[
-{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：10/12😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
-{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：10/12😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0},
-{"key":"道长_哔哩","name":"bilibib","type":3,"api":"./lib/drpy2.min.js","ext":"./js/bilibili.js"},
+{"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：10/13😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"indexs":1},
+{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：10/13😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"indexs":1},
+{"key":"道长_哔哩","name":"🅱️哔哩丨哔哩","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/bilibili.js"},
 
 {"key":"饭佬_广场","name":"🤸广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"ext":"./bilibili/广场舞.json","style":{"type":"rect","ratio":1.597}},
 {"key":"饭佬_直播","name":"🎮游戏丨直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
@@ -27,8 +27,8 @@
 {"key":"欧歌_在线","name":"📺在线丨短剧③","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
 
 {"key":"欧歌_星芽","name":"📺星芽丨短剧④","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"./jar/oue1002.jar;md5;b85ef5b7adadb054eeee553c54662610"},
-{"key":"开心_蓝莓","name":"📺蓝莓丨短剧⑤","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蓝莓短剧.js"},
 {"key":"开心_好帅","name":"📺好帅丨短剧⑥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"},"jar":"./jar/XBPQ.jar"},
+{"key":"开心_蓝莓","name":"📺蓝莓丨短剧⑤","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蓝莓短剧.js"},
 
 {"key":"饭佬_足球","name":"⚽足球丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"饭佬_足篮","name":"⚽足篮丨直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"./js/31直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
@@ -146,8 +146,8 @@
 	
 {"key":"屁股_耳机","name":"🧲耳机丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/耳机.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"屁股_变态","name":"🧲变态丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XBPQ/变态.json","jar":"./jar/XBPQ.jar"},
-{"key":"屁股_港口","name":"🧲港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
-{"key":"屁股_磁熊","name":"🧲磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js"},
+{"key":"屁股_港口","name":"🧲港口丨磁力","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
+{"key":"屁股_磁熊","name":"🧲磁熊丨磁力","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js"},
 
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}],
 
