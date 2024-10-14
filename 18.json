@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg1012.jar;md5;2f5377200fe042448fb91855ab502527",
+"spider":"./jar/pg1014.jar;md5;10475e37b38749a9bdfddc1c6daf5052",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -13,10 +13,10 @@
 {"key":"合集","name":"点击ㅤㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!ㅤ感谢陈公子大力赞助👍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
 {"key":"配置","name":"配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
+{"key":"最色","name":"❤️最大","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
 {"key":"麻豆","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"爱豆","name":"🔞爱豆","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"花椒","name":"🔞花椒","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
 
 {"key":"嗨片","name":"🔞嗨片","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
 {"key":"七七","name":"🔞七七","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/h/777影院.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"},
