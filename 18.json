@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;c7682c742f4be068bc3e416a29e5c79b",
+"spider":"./jar/pg.jar;md5;ebb7801cb7ce89c157635bb66ed5c319",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -89,7 +89,7 @@
 {"key":"JavDb","name":"💔JavDb(海外)","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/tokenm.json$$$null$$$https://www.javdb.com$$$proxy","style":{"type":"rect","ratio":1.33},"timeout":60},
 {"key":"Gxqvlj","name":"💔Gxqvlj(海外)","type":3,"api":"csp_Gxqvlj","searchable":1,"quickSearch":1,"changeable":1,"ext":"proxy","timeout":60},
 {"key":"Doll","name":"💔玩偶哥哥(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"ext":"proxy","style":{"type":"rect","ratio":1.309},"timeout":60},
-{"key":"Taohuazu","name":"💔Taohuazu(海外)","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$http://hsck484.cc/$$$proxy","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"Taohuazu","name":"💔桃花族(海外)","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$http://hsck484.cc/$$$proxy","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"ext":"proxy","style":{"type":"rect","ratio":1.777},"timeout":60},
 {"key":"Top888","name":"💔Top888(海外)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"ext":"proxy","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"SeHuaTang","name":"💔色花堂|(海外)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$null$$$proxy","style":{"type":"list","ratio":1.1}},
