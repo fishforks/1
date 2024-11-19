@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;ebb7801cb7ce89c157635bb66ed5c319",
+"spider":"./jar/pg.jar;md5;1a0f9996d0d0b33e8cca9f2f9191bb3e",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -69,11 +69,12 @@
 
 {"key":"屁股_多多","name":"⭐多多丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"},
 {"key":"屁股_蜡笔","name":"⭐蜡笔丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://labipan.com/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-{"key":"屁股_云星","name":"⭐云星丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn/$$$noproxy$$$1$$$./lib/wogg.json"},
+{"key":"屁股_六趣","name":"⭐六趣丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wpcms.xn--9hq.icu/$$$noproxy$$$1$$$./lib/wogg.json"},
 
-{"key":"屁股_六趣","name":"💕六趣丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://43.136.41.222:999/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"屁股_小米","name":"⚡小米丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://mpanso.com/$$$noproxy$$$1$$$./lib/wogg.json"},
+
+{"key":"屁股_小米","name":"⚡小米丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"屁股_奥秘","name":"🐋奥秘丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json"},
+{"key":"屁股_云星","name":"⭐云星丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn/$$$noproxy$$$1$$$./lib/wogg.json"},
 
 {"key":"屁股_频道","name":"✈️TG丨频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://tg.fish2018.us.kg/","tgsearch_media_url":"http://tg.fish2018.us.kg/","channellist":"tgsearchers,Quark_Share_Channel,Aliyundrive_Share_Channel,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,alyp_4K_Movies,Aliyun_4K_Movies","proxy":"proxy","danmu":true}},
 {"key":"屁股_群组","name":"✈️TG丨群组搜索","type":3,"api":"csp_TGYunPan","timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://tg.fish2018.us.kg/","tgsearch_media_url":"http://tg.fish2018.us.kg/","channellist":"Mbox115,wanwansubchat,alypzyhzq,shares_115","proxy":"proxy","danmu":true}},
@@ -126,10 +127,16 @@
 {"key":"开心_三思","name":"🎦三思丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/348.json","jar":"./jar/kaixin.jar;md5;c8fbc572bc41da6f69f75cb31f53ffb7"},
 {"key":"开心_剧集","name":"🎦剧集丨多线","type":3,"api":"csp_XBPQ","ext":{"搜索url":"https://wap.ijujitv.cc/search/-------------.html?wd=**","分类url":"https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类":"陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"},"jar":"./jar/kaixin.jar;md5;c8fbc572bc41da6f69f75cb31f53ffb7"},
 
-{"key":"张群_黑木","name":"🌸黑木丨克隆","type":4,"api":"http://zhangqun66.xyz/225.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"业余_立播","name":"🌸立播丨多线","type":4,"api":"http://t4.540734621.xyz:8888/video/libo","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},
+{"key":"业余_在线","name":"🌸在线丨多线","type":4,"api":"http://t4.540734621.xyz:8888/video/zxzj","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},
+{"key":"业余_农民","name":"🌸农民丨多线","type":4,"api":"http://t4.540734621.xyz:8888/video/nmys","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},
+{"key":"业余_星剧","name":"🌸星剧丨多线","type":4,"api":"http://t4.540734621.xyz:8888/video/star2","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},
+{"key":"业余_宝片","name":"🌸宝片丨多线","type":4,"api":"http://php.540734621.xyz/php/ibaopian.php","searchable":1,"quickSearch":1,"filterable":0},
+	
 {"key":"张群_金鹰","name":"🌸金鹰丨克隆","type":4,"api":"http://zhangqun66.xyz/jy.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"张群_索尼","name":"🌸索尼丨克隆","type":4,"api":"http://zhangqun66.xyz/sn.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"张群_采集","name":"🌸采集丨克隆","type":1,"api":"http://zhangqun66.xyz/cjjh.php","searchable":1,"changeable":1},
+	
 
 {"key":"跑晕_合集","name":"🌸克隆丨多线","type":4,"api":"https://api.paoyun.eu.org/klhj.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"跑晕_黑木","name":"🌸黑木丨多线","type":4,"api":"https://api.paoyun.eu.org/225.php","searchable":1,"quickSearch":1,"filterable":0},
